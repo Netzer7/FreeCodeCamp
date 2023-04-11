@@ -13,5 +13,6 @@
 	},
 	"author": "Jacob Hastings",
 	"description": "This project is a working of example of NPM packackage management",
-	"keywords": ["FreeCodeCamp","Learning", "Tutorial", "freecodecamp"]
+	"keywords": ["FreeCodeCamp","Learning", "Tutorial", "freecodecamp"],
+	"license": "No license needed, this is a test file"
 }
