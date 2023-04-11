@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Jacob Hastings"
+	"author": "Jacob Hastings",
+	"description": "This project is a working of example of NPM packackage management"
 }
