@@ -3,6 +3,8 @@ let app = express();
 
 console.log("Hello world");
 
+app.use(express.static(__dirname + "/public"));
+
 app.use("/public", (req, res) => {
     express.static(__dirname + "/public")
 })
